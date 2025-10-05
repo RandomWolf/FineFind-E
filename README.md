@@ -2,7 +2,7 @@
   <sub>
     <img src="https://github.com/user-attachments/assets/5e86806a-09ed-4305-a7e1-b483495098a8" alt="Logo" height="38" width="38">
   </sub>
-  FineFind
+  FineFind-E
 </h1>
 <p align="center">Enhances your browser with an animation that makes Ctrl + F results more noticeable!</p>
 <p align="center">🛠 This WebExtension is currently in beta 🛠</p>
